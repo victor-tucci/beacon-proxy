@@ -30,7 +30,7 @@ async function main() {
   // Log the deployed contract address
   // console.log("Deployed v1Contract to:", v1Contract.target);
   // console.log("Deployed V2contract to:",v2Contract.target);
-  console.log("Deployed V3contract to:",v3Contract.target);
+  console.log("Deployed V3contract to:", v3Contract.target);
   // console.log("Deployed beacon to:", beacon.target);
   // console.log("Deployed AccountFactory to:", AccountFactory.target);
 }
