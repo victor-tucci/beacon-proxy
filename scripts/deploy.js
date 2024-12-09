@@ -1,11 +1,5 @@
 const hre = require("hardhat");
 
-// const v1ContractAddress="0xA9f3458e3fCC5797ac9eDAc6FA8fDfCaa5fbB278";
-// const v2ContractAddress="0x4eF861C40Fd03C33715A7f803CC51eF62434bE86";
-// const v3ContractAddress="0x2aD7D0c1B34374c4B3cAca60Cd27F3eA647D2074";
-// const beaconAddress="0x16134a151e8DC5536db8e116719D89d5695cF20c";
-// const accountFactoryAddress="0xa6b169Fa230f1e211F033888BaE0CDCFE3356743";
-
 const v1Contract = "0x87CB24F96D0Cd2496208d3a0980008c54b08B5f2";
 const beacon = "0x226f8A13B66e79f8d51BB7BD231bb8e9A8829DB1";
 const AccountFactory = "0x6edC2BBB344225A86a7940C02FFad62a0776737E";
